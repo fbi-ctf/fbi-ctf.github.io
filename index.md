@@ -1,3 +1,6 @@
-# Hello World!!
+# Welcome to FBI.CTF
 
-## FBI OPEN UP!
+- [About Us](/about/)
+- Contract Us
+  - via [Discord](/discord)
+  - E-Mail Us [fbi.ctf.69@gmail.com](mailto:fbi.ctf.69@gmail.com)
