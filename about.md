@@ -21,4 +21,4 @@ This is **Federal Bonk Investigations**(`FBI`) CTF team
 
 ### Contract Us
 
-[Discord](https://discord.gg/qhRJsKhBcX)
+- View [/discord](/discord)
