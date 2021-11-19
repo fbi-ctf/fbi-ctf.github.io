@@ -1,5 +1,7 @@
 # Welcome to FBI.CTF
 
+- Posts
+  -
 - [About Us](/about/)
 - Contract Us
   - via [Discord](/discord)
