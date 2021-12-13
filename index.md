@@ -1,7 +1,7 @@
 # Welcome to FBI.CTF
 
 - Posts
-  - [CyberDrill BreakIt(RE)](/writeups/cyberdrill/Break-it)
+  - [CyberDrill BreakIt (RE)](/writeups/cyberdrill/Break-it)
 - [About Us](/about/)
 - Contract Us
   - via [Discord](/discord)
