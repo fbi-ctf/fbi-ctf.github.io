@@ -14,9 +14,10 @@ Artifects Will Be Available in our [github](https://github.com/fbi-ctf/fbi-ctf.g
 - review the source code
 - writing script to automate the decryption process
   - Use [Python Script](https://github.com/fbi-ctf/fbi-ctf.github.io/blob/main/writeups/cyberdrill2021/Reverse-Engineering-up-to-date/breakmesir_solution.py) to get the Flag
+  - 
 ### Detailed Video WriteUp
 A Detailed Video solution By our team member **[OtolKhan](https://twitter.com/KhanOtol)** 
 ### Youtube [Video Link](https://www.youtube.com/watch?v=gBSYH4u-VHc)
 
 ##### Follow Us On twitter [@fbictf](https://twitter.com/fbictf)
-##### Join Our Discord Server https://discord.gg/qhRJsKhBcX
+##### Join Our [Discord Server](https://discord.gg/qhRJsKhBcX)
