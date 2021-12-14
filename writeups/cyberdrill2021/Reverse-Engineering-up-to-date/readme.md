@@ -1,7 +1,7 @@
 # Reverse-Engineering-up-to-date
 Written By: **[0xAr7hur](https://twitter.com/0xAr7hur)** Date: `14-12-2021` Time: `14:35`
 
-Artifects Will Be Available in our [github](https://github.com/fbi-ctf/fbi-ctf.github.io/tree/main/writeups/cyberdrill2021/Reverse-Engineering-up-to-date)
+Artifacts Will Be Available in our [github](https://github.com/fbi-ctf/fbi-ctf.github.io/tree/main/writeups/cyberdrill2021/Reverse-Engineering-up-to-date)
 
 #### Short Solution
 
