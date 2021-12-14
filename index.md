@@ -2,6 +2,7 @@
 
 - Posts
   - [CyberDrill BreakIt (RE)](/writeups/cyberdrill2021/Break-it)
+  - [CyberDrill Reverse Engineering up to date!](/writeups/cyberdrill2021/Reverse-Engineering-up-to-date)
 - [About Us](/about/)
 - Contract Us
   - Follow Us On Twitter [@fbictf](https://twitter.com/fbictf)
