@@ -12,27 +12,27 @@ It is assumed that someone from inside the organization exchanged some recorded 
 ##### Basic file check
 Lets see some basic file checks we will use file command
 
-![basicFile](images/basicFile.jpg)
+![basicFile](Images/basicFile.jpg)
 
 Here we see it's a packet capture file and we try some packet analysis in here but found nothing.
 So i tried some basic command like foremost:
 
-![foremost](images/foremost.jpg)
+![foremost](Images/foremost.jpg)
 
 When open the file then i found some intresting things like wav file. then use file command to check that it's a wav file or not. 
 
-![wav-check](images/wav-check.jpg)
+![wav-check](Images/wav-check.jpg)
 
 when i insure that it's a wav file then i shifted it to audacity and change it to multi-view option.
 
-![audacity](images/audacity.jpg)
+![audacity](Images/audacity.jpg)
 
 and sound hear like some beep beep formation and i just convert the small to dot(.) and big to(-) and the encryption look like some morse code:
 
 `. -..- ..-. .. .-.. - .-. .- - .. --- -.`
+<br>
 
-
-![cybercheif](images/cybercheif.jpg)
+![cybercheif](Images/cybercheif.jpg)
 
 and when i decode it to cyber-chef  then  i found :
 <br>
