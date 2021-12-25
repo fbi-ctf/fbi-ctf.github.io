@@ -5,7 +5,7 @@ permalink: /about/
 
 ## About Us
 
-This is **Federal Bonk Investigations**(`FBI`) CTF team
+This is **Federal Bonk Investigations**(`FBICTF`) CTF team
 
 * * *
 
