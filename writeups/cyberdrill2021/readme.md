@@ -1,8 +1,3 @@
----
-title: WriteUp For cyberdrill2021
-permalink: /writeups/cyberdrill2021/
----
-
 # WriteUp For cyberdrill2021
 
 - Basic
